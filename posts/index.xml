@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Oct 2021 18:19:52 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Oct 2021 18:57:25 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Root Me</title>
+      <link>/posts/root-me/</link>
+      <pubDate>Tue, 26 Oct 2021 18:57:25 +0200</pubDate>
+      
+      <guid>/posts/root-me/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>/posts/my-first-post/</link>
