@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
-    <link>/</link>
-    <description>Recent content on Terminal</description>
+    <title>0xn0d</title>
+    <link>https://0xn0d.github.io/</link>
+    <description>Recent content on 0xn0d</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 26 Oct 2021 18:57:25 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Oct 2021 18:57:25 +0200</lastBuildDate><atom:link href="https://0xn0d.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Root Me</title>
-      <link>/posts/root-me/</link>
+      <link>https://0xn0d.github.io/posts/root-me/</link>
       <pubDate>Tue, 26 Oct 2021 18:57:25 +0200</pubDate>
       
-      <guid>/posts/root-me/</guid>
+      <guid>https://0xn0d.github.io/posts/root-me/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://0xn0d.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 26 Oct 2021 18:19:52 +0200</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://0xn0d.github.io/posts/my-first-post/</guid>
       <description></description>
-      <content></content>
     </item>
     
   </channel>

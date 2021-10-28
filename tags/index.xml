@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Terminal</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Terminal</description>
+    <title>Tags on 0xn0d</title>
+    <link>https://0xn0d.github.io/tags/</link>
+    <description>Recent content in Tags on 0xn0d</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 26 Oct 2021 18:57:25 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Oct 2021 18:57:25 +0200</lastBuildDate><atom:link href="https://0xn0d.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hacking</title>
-      <link>/tags/hacking/</link>
+      <link>https://0xn0d.github.io/tags/hacking/</link>
       <pubDate>Tue, 26 Oct 2021 18:57:25 +0200</pubDate>
       
-      <guid>/tags/hacking/</guid>
+      <guid>https://0xn0d.github.io/tags/hacking/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
       <title>web</title>
-      <link>/tags/web/</link>
+      <link>https://0xn0d.github.io/tags/web/</link>
       <pubDate>Tue, 26 Oct 2021 18:57:25 +0200</pubDate>
       
-      <guid>/tags/web/</guid>
+      <guid>https://0xn0d.github.io/tags/web/</guid>
       <description></description>
-      <content></content>
     </item>
     
   </channel>
